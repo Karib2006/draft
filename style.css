@@ -55,7 +55,6 @@ body{
     color: black;
     text-decoration: none;
     transition-duration: 0.5s;
-    font-size: 1.25vw;
 }
 
 .lang:hover{
