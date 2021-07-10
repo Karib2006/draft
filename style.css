@@ -94,26 +94,20 @@ body{
 } */
 
 #bkash{
-    display: block;
-    margin: 0 auto;
-    margin-top: 8em;
+    width: 25vw;
 }
 
 
 /* Nogod */
 
 #nogod{
-    display: block;
-    margin: 0 auto;
-    margin-top: 8em;
+    width: 25vw;
 }
 
 /* Upay */
 
 #upay{
-    display: block;
-    margin: 0 auto;
-    margin-top: 8em;
+    width: 25vw;
 }
 
 /* All Banks */
@@ -150,4 +144,29 @@ body{
 font {
     font-size: 13px;
 }    
+
+
+.new{
+    display: flex;
+    width: inherit;
+    height: 10rem;
+    justify-content: center;
+    align-items: center;
+    width: 35vw;
+    margin: 0 auto;
+    flex-direction: column;
+    margin-top: 15vw;
+    margin-bottom: 10vw;
+}
+
+.newword{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw
+}
+
+.new:hover{
+    opacity: 0.85;
+    text-decoration: underline;
+}
+
 
