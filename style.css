@@ -98,6 +98,7 @@ body{
 
 #bkash{
     width: 25vw;
+    min-width: 12rem;
 }
 
 
@@ -105,12 +106,14 @@ body{
 
 #nogod{
     width: 25vw;
+    min-width: 12rem;
 }
 
 /* Upay */
 
 #upay{
     width: 25vw;
+    min-width: 12rem;
 }
 
 /* All Banks */
